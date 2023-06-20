@@ -1,0 +1,711 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+/* Home */
+
+.nav {
+  background-color: #010e38;
+}
+
+.Picture {
+  position: absolute;
+  top: 10%;
+  left: 70%;
+  width: 18%;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  border: 4px solid rgba(205, 95, 248, 0.7);
+  box-shadow: 0px 0px 6px 4px rgba(205, 95, 248, 0.6);
+  border-radius: 20px;
+}
+
+.main_intro_div {
+  width: 100%;
+  height: 100vh !important;
+  position: relative;
+}
+
+.Logo {
+  font-family: 'Great Vibes', cursive;
+  font-size: 1.875rem;
+}
+
+h1 {
+  font-size: 2.3rem;
+  font-family: 'Courgette', cursive;
+}
+
+.bg_img {
+  height: 100vh;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.text {
+  position: absolute;
+  top: 10%;
+  left: 5%;
+  width: 50%;
+  color: white;
+}
+
+.responsibility {
+  position: absolute;
+  top: 50%;
+  left: 5%;
+  width: 50%;
+  color: white;
+}
+
+li {
+  font-size: 1.8125rem;
+  font-family: 'Satisfy', cursive;
+}
+
+.text_intro {
+  font-size: xx-large;
+  font-family: 'Satisfy', cursive;
+}
+
+/* Home Media Query */
+
+@media screen and (max-width: 1478px) {
+  .text_intro {
+    font-size: x-large !important;
+    font-family: 'Satisfy', cursive;
+  }
+
+  .Picture {
+    position: absolute;
+    top: 10%;
+    left: 70%;
+    width: 23%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    border: 4px solid rgba(205, 95, 248, 0.7);
+    box-shadow: 0px 0px 6px 4px rgba(205, 95, 248, 0.6);
+    border-radius: 20px;
+  }
+
+  .text {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    width: 50%;
+    color: white;
+  }
+
+  .responsibility {
+    position: absolute;
+    top: 60%;
+    left: 5%;
+    width: 50%;
+    color: white;
+  }
+
+  li {
+    font-size: x-large !important;
+    font-family: 'Satisfy', cursive;
+  }
+}
+
+@media screen and (max-width: 1244px) {
+  .text_intro {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+
+  .text {
+    position: absolute;
+    top: 10% !important;
+    left: 5%;
+    width: 50%;
+    color: white;
+  }
+
+  .responsibility {
+    position: absolute;
+    top: 55% !important;
+    left: 5%;
+    width: 50%;
+    color: white;
+  }
+
+  li {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+}
+
+@media screen and (max-width: 1354px) {
+  .text_intro {
+    font-size: x-large !important;
+    font-family: 'Satisfy', cursive;
+  }
+
+  .text {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    width: 50%;
+    color: white;
+  }
+
+  .responsibility {
+    position: absolute;
+    top: 60%;
+    left: 5%;
+    width: 50%;
+    color: white;
+  }
+
+  li {
+    font-size: x-large !important;
+    font-family: 'Satisfy', cursive;
+  }
+}
+
+@media screen and (max-width: 1126px) {
+  .text_intro {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+
+  .text {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    width: 50%;
+    color: white;
+  }
+
+  .responsibility {
+    position: absolute;
+    top: 60%;
+    left: 5%;
+    width: 50%;
+    color: white;
+  }
+
+  li {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+}
+
+@media screen and (max-width: 920px) {
+  .Picture {
+    position: absolute;
+    top: 3%;
+    left: 65%;
+    width: 30%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    border: 4px solid rgba(205, 95, 248, 0.7);
+    box-shadow: 0px 0px 6px 4px rgba(205, 95, 248, 0.6);
+    border-radius: 20px;
+  }
+
+  .text_intro {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+
+  .text {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    width: 50%;
+    color: white;
+  }
+
+  .responsibility {
+    position: absolute;
+    top: 60%;
+    left: 5%;
+    width: 50%;
+    color: white;
+  }
+
+  li {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+}
+
+@media screen and (max-width: 700px) {
+
+  .Picture {
+    position: absolute;
+    top: 3%;
+    left: 35%;
+    width: 30%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    border: 4px solid rgba(205, 95, 248, 0.7);
+    box-shadow: 0px 0px 6px 4px rgba(205, 95, 248, 0.6);
+    border-radius: 20px;
+  }
+
+  .text_intro {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+
+  .text {
+    position: absolute;
+    top: 48% !important;
+    left: 5%;
+    width: 90%;
+    color: white;
+  }
+
+  .responsibility {
+    position: absolute;
+    top: 69% !important;
+    left: 5%;
+    width: 90%;
+    color: white;
+  }
+
+  li {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+}
+
+@media screen and (max-width: 520px) {
+
+  .Picture {
+    position: absolute;
+    top: 3%;
+    left: 35%;
+    width: 30%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    border: 4px solid rgba(205, 95, 248, 0.7);
+    box-shadow: 0px 0px 6px 4px rgba(205, 95, 248, 0.6);
+    border-radius: 20px;
+  }
+
+  .text_intro {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+
+  .text {
+    position: absolute;
+    top: 35% !important;
+    left: 5%;
+    width: 90%;
+    color: white;
+  }
+
+  .responsibility {
+    position: absolute;
+    top: 64% !important;
+    left: 5%;
+    width: 90%;
+    color: white;
+  }
+
+  li {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+}
+
+@media screen and (max-width: 484px) {
+
+
+  .Picture {
+    display: none;
+  }
+
+  .text_intro {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+
+  .text {
+    position: absolute;
+    top: 15% !important;
+    left: 5%;
+    width: 90%;
+    color: white;
+  }
+
+  .responsibility {
+    position: absolute;
+    top: 50% !important;
+    left: 5%;
+    width: 90%;
+    color: white;
+  }
+
+  li {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+}
+
+@media screen and (max-width: 395px) {
+
+
+  .text_intro {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+
+  .text {
+    position: absolute;
+    top: 15% !important;
+    left: 5%;
+    width: 90%;
+    color: white;
+  }
+
+  .responsibility {
+    position: absolute;
+    top: 50% !important;
+    left: 5%;
+    width: 90%;
+    color: white;
+  }
+
+  li {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+}
+
+@media screen and (max-width: 336px) {
+
+  .Picture {
+    display: none;
+  }
+
+  .text_intro {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+
+  .text {
+    position: absolute;
+    top: 10% !important;
+    left: 5%;
+    width: 90%;
+    color: white;
+  }
+
+  .responsibility {
+    position: absolute;
+    top: 55% !important;
+    left: 5%;
+    width: 90%;
+    color: white;
+  }
+
+  li {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+}
+
+@media screen and (max-width: 304px) {
+  .text_intro {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+
+  .text {
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    width: 90%;
+    color: white;
+  }
+
+  .responsibility {
+    position: absolute;
+    top: 55%;
+    left: 5%;
+    width: 90%;
+    color: white;
+  }
+
+  li {
+    font-size: large !important;
+    font-family: 'Satisfy', cursive;
+  }
+}
+
+@media screen and (max-width: 278px) {
+  .text_intro {
+    font-size: medium !important;
+    font-family: 'Satisfy', cursive;
+  }
+
+  .text {
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    width: 90%;
+    color: white;
+  }
+
+  .responsibility {
+    position: absolute;
+    top: 55%;
+    left: 5%;
+    width: 90%;
+    color: white;
+  }
+
+  li {
+    font-size: medium !important;
+    font-family: 'Satisfy', cursive;
+  }
+}
+
+
+/* Resume */
+
+.main_intro_div_two {
+  width: 100%;
+  height: 120vh;
+  position: relative;
+}
+
+.Rif {
+  position: absolute;
+  top: 5%;
+  color: white;
+  width: 100%;
+
+}
+
+.skill_div_main {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 2%;
+}
+
+.skill_div {
+  display: flex;
+  width: 70%;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 1%;
+}
+
+.Icons {
+  padding: 1%;
+  width: 20%;
+  margin: 2%;
+  height: auto;
+  display: flex;
+  border: 1px solid rgb(205, 95, 248);
+  box-shadow: 0px 0px 6px 4px rgba(205, 95, 248, 0.6);
+  justify-content: center;
+}
+
+.Rif_head {
+  text-align: center;
+  font-size: 3.5rem;
+  font-family: 'Courgette', cursive;
+}
+
+.Icons>img {
+  width: 8rem;
+  padding: 5px;
+}
+
+.Rif_head_two{
+  text-align: center;
+  font-size: 3.5rem;
+  font-family: 'Courgette', cursive;
+}
+
+.Riftwo{
+  position: absolute;
+  top: 57%;
+  color: white;
+  width: 100%;
+  height: auto;
+
+}
+
+.bg_img_two {
+  height: inherit;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+@media screen and (max-width: 930px){
+  .main_intro_div_two {
+    width: 100%;
+    height: 80vh;
+    position: relative;
+  }
+
+  .Rif_head {
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: 'Courgette', cursive;
+  }
+
+  .Rif_head_two{
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: 'Courgette', cursive;
+  }
+
+  .bg_img_two {
+    height: 80vh ;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 574px){
+  .main_intro_div_two {
+    width: 100%;
+    height: 75vh;
+    position: relative;
+  }
+
+  .bg_img_two {
+    height: inherit;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 614px){
+  .main_intro_div_two {
+    width: 100%;
+    height: 73vh;
+    position: relative;
+  }
+
+  .bg_img_two {
+    height: inherit;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 420px){
+  .main_intro_div_two {
+    width: 100%;
+    height: 70vh;
+    position: relative;
+  }
+
+  .bg_img_two {
+    height: inherit;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 375px){
+  .main_intro_div_two {
+    width: 100%;
+    height: 65vh;
+    position: relative;
+  }
+
+  .Rif_head {
+    text-align: center;
+    font-size: 2.3rem;
+    font-family: 'Courgette', cursive;
+  }
+
+  .Riftwo{
+    position: absolute;
+    top: 50%;
+    color: white;
+    width: 100%;
+    height: auto;
+  
+  }
+
+  .Rif_head_two{
+    text-align: center;
+    font-size: 2.3rem;
+    font-family: 'Courgette', cursive;
+  }
+
+  .bg_img_two {
+    height: inherit;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+}
+
+
+@media screen and (max-width: 375px){
+  .main_intro_div_two {
+    width: 100%;
+    height: 70vh;
+    position: relative;
+  }
+
+  .Rif_head {
+    text-align: center;
+    font-size: 2.3rem;
+    font-family: 'Courgette', cursive;
+  }
+
+
+  .Rif_head_two{
+    text-align: center;
+    font-size: 2.3rem;
+    font-family: 'Courgette', cursive;
+  }
+
+  .bg_img_two {
+    height: inherit;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+}

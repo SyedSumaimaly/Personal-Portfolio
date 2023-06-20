@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Laerned Website",
+        "description": "I made this website using HTML5, CSS3 and some CSS3 Liberary like Bootsrap etc.",
+        "img": "https://res.cloudinary.com/dpqcnekdn/image/upload/v1687254977/learned_eja0jd.png"
+    },
+
+    {
+        "name": "Teach Quran Academy (Local Client)",
+        "description": "TQA website using HTML5, CSS3 & Google Form as per client requirment.",
+        "img": "https://res.cloudinary.com/dpqcnekdn/image/upload/v1687255149/TQA_qjwviq.png"
+    },
+
+    {
+        "name": "NFT Landing Page (Clone)",
+        "description": "NFT Landing Page using HTML5 & CSS3.",
+        "img": "https://res.cloudinary.com/dpqcnekdn/image/upload/v1687255576/NFT_gtftoi.png"
+    },
+
+    {
+        "name": "OLX Web (Clone)",
+        "description": "OLX Web using HTML5 & CSS3",
+        "img": "https://res.cloudinary.com/dpqcnekdn/image/upload/v1687255727/OLX_zdozma.png"
+    },
+
+    {
+        "name": "Mobile Search Engine",
+        "description": "Mobile Search Engine using HTML5, CSS3 & JS.",
+        "img": "https://res.cloudinary.com/dpqcnekdn/image/upload/v1687255723/SearchEngine_aa3pjw.png"
+    },
+
+    {
+        "name": "Quiz App React",
+        "description": "Quiz App using React.js. in this ",
+        "img": "https://res.cloudinary.com/dpqcnekdn/image/upload/v1687255969/Quiz_App_pjzstz.png"
+    },
+
+    {
+        "name": "Mobile Search Engine",
+        "description": "Mobile Search Engine using HTML5, CSS3 & JS.",
+        "img": "https://res.cloudinary.com/dpqcnekdn/image/upload/v1687255723/SearchEngine_aa3pjw.png"
+    },
+
+    {
+        "name": "Mobile Search Engine",
+        "description": "Mobile Search Engine using HTML5, CSS3 & JS.",
+        "img": "https://res.cloudinary.com/dpqcnekdn/image/upload/v1687255723/SearchEngine_aa3pjw.png"
+    }
+]
