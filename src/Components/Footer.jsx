@@ -13,31 +13,31 @@ export default function Footer() {
     <MDBFooter className='bg-dark text-center text-white'>
       <MDBContainer className='p-4 pb-0'>
         <section className='mb-4'>
-          <MDBBtn outline color="light" floating className='m-1' href='https://www.facebook.com/profile.php?id=100077065929521' role='button'>
+          <MDBBtn outline color="light" floating className='m-1' href='https://www.facebook.com/profile.php?id=100077065929521' role='button' target='blanked'>
             <BsFacebook/>
           </MDBBtn>
 
-          <MDBBtn outline color="light" floating className='m-1' href='https://twitter.com/syedsumaimaly' role='button'>
+          <MDBBtn outline color="light" floating className='m-1' href='https://twitter.com/syedsumaimaly' role='button' target='blanked'>
             <BsTwitter/>
           </MDBBtn>
 
-          <MDBBtn outline color="light" floating className='m-1' href='https://www.instagram.com/syed_sumaim_aly/?fbclid=IwAR2XSdp9RxwZExjIFKDsEFtrLu9jI5O9T4ZMhXeRNFQ0XDyRTefTw6JuJL0' role='button'>
+          <MDBBtn outline color="light" floating className='m-1' href='https://www.instagram.com/syed_sumaim_aly/?fbclid=IwAR2XSdp9RxwZExjIFKDsEFtrLu9jI5O9T4ZMhXeRNFQ0XDyRTefTw6JuJL0' role='button' target='blanked'>
           <BsInstagram/>
           </MDBBtn>
 
-          <MDBBtn outline color="light" floating className='m-1' href='www.linkedin.com/in/syed-sumaim-ali' role='button'>
+          <MDBBtn outline color="light" floating className='m-1' href='https://www.linkedin.com/in/syed-sumaim-ali/' role='button' target='blanked'>
             <BsLinkedin/>
           </MDBBtn>
 
-          <MDBBtn outline color="light" floating className='m-1' href='https://github.com/SyedSumaimaly' role='button'>
+          <MDBBtn outline color="light" floating className='m-1' href='https://github.com/SyedSumaimaly' role='button' target='blanked'>
             <BsGithub />
           </MDBBtn>
 
-          <MDBBtn outline color="light" floating className='m-1' href='https://www.youtube.com/channel/UC8REa9mYhsKf1aDyD4emrLQ' role='button'>
+          <MDBBtn outline color="light" floating className='m-1' href='https://www.youtube.com/channel/UC8REa9mYhsKf1aDyD4emrLQ' role='button' target='blanked'>
             <BsYoutube />
           </MDBBtn>
 
-          <MDBBtn outline color="light" floating className='m-1' href='https://theeducationstree.com/ ' role='button'>
+          <MDBBtn outline color="light" floating className='m-1' href='https://theeducationstree.com/ ' role='button' target='blanked'>
             <FaBloggerB />
           </MDBBtn>
         </section>

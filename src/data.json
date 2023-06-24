@@ -1,49 +1,82 @@
 [
     {
+        "name": "Quiz App (React)",
+        "description": "Quiz App using React.js. in this ",
+        "imgs" : "./imgs/QuizApp.png",
+        "git": "https://github.com/SyedSumaimaly/Quiz-App-React",
+        "view": "https://sumaim-quiz-app-react.netlify.app/"
+    },
+    {
+        "name": "Emoji Finder App (React)",
+        "description": "Emoji Finder App using React.js & Emoji API.",
+        "imgs": "./imgs/EmojiFinder.png",
+        "git": "https://github.com/SyedSumaimaly/Emoji-Finder-React",
+        "view": "https://sumaim-emoji-finder.netlify.app/"
+    },
+    {
+        "name": "Calender App (React)",
+        "description": "Calender App using React.js & Calender API.",
+        "imgs": "./imgs/CalenderReact.png",
+        "git": "https://github.com/SyedSumaimaly/Calendar-React",
+        "view": "https://react-calendar-sumaim.netlify.app/"
+    },
+    {
+        "name": "To Do App (React)",
+        "description": "To Do App using React.js.",
+        "imgs": "./imgs/ToDoApp.png",
+        "git": "https://github.com/SyedSumaimaly/ToDo-App-React",
+        "view": "https://todo-app-react-sumaim.netlify.app/"
+    },
+    {
         "name": "Laerned Website",
         "description": "I made this website using HTML5, CSS3 and some CSS3 Liberary like Bootsrap etc.",
-        "img": "https://res.cloudinary.com/dpqcnekdn/image/upload/v1687254977/learned_eja0jd.png"
+        "imgs": "./imgs/learned.png",
+        "git": "https://github.com/SyedSumaimaly/Learned-Website-Practice",
+        "view": "https://digitologies-learned-sumaim.netlify.app/"
     },
-
+    {
+        "name": "Mobile Search Engine",
+        "description": "Mobile Search Engine using HTML5, CSS3 & JS.",
+        "imgs": "./imgs/SearchEngine.png",
+        "git": "https://github.com/SyedSumaimaly/Phones-Store",
+        "view": "https://sumaim-phones-store.netlify.app/"
+    },
     {
         "name": "Teach Quran Academy (Local Client)",
         "description": "TQA website using HTML5, CSS3 & Google Form as per client requirment.",
-        "img": "https://res.cloudinary.com/dpqcnekdn/image/upload/v1687255149/TQA_qjwviq.png"
+        "imgs": "./imgs/TQA.png",
+        "git": "https://github.com/SyedSumaimaly/TeachQuranAcademy_Portfolio",
+        "view": "https://www.teachquranacademy.com/"
     },
-
     {
         "name": "NFT Landing Page (Clone)",
         "description": "NFT Landing Page using HTML5 & CSS3.",
-        "img": "https://res.cloudinary.com/dpqcnekdn/image/upload/v1687255576/NFT_gtftoi.png"
+        "imgs": "./imgs/NFT.png",
+        "git": "https://github.com/SyedSumaimaly/Gumybear_NFT_LandingPg_Portfolio",
+        "view": "https://nft-landingpg-sumaim.netlify.app/"
     },
 
     {
-        "name": "OLX Web (Clone)",
-        "description": "OLX Web using HTML5 & CSS3",
-        "img": "https://res.cloudinary.com/dpqcnekdn/image/upload/v1687255727/OLX_zdozma.png"
+        "name": "OLX Page (Clone)",
+        "description": "OLX Page using HTML5 & CSS3.",
+        "imgs": "./imgs/OLX.png",
+        "git": "https://github.com/SyedSumaimaly/Emoji-Finder-React",
+        "view": "https://sumaim-emoji-finder.netlify.app/"
     },
 
     {
-        "name": "Mobile Search Engine",
-        "description": "Mobile Search Engine using HTML5, CSS3 & JS.",
-        "img": "https://res.cloudinary.com/dpqcnekdn/image/upload/v1687255723/SearchEngine_aa3pjw.png"
+        "name": "Weather App",
+        "description": "Weather App using HTML5, CSS3 & JS.",
+        "imgs": "./imgs/Wetherpic.PNG",
+        "git": "https://github.com/SyedSumaimaly/Weather-App",
+        "view": "https://sumaim-weather-app.netlify.app/"
     },
 
     {
-        "name": "Quiz App React",
-        "description": "Quiz App using React.js. in this ",
-        "img": "https://res.cloudinary.com/dpqcnekdn/image/upload/v1687255969/Quiz_App_pjzstz.png"
-    },
-
-    {
-        "name": "Mobile Search Engine",
-        "description": "Mobile Search Engine using HTML5, CSS3 & JS.",
-        "img": "https://res.cloudinary.com/dpqcnekdn/image/upload/v1687255723/SearchEngine_aa3pjw.png"
-    },
-
-    {
-        "name": "Mobile Search Engine",
-        "description": "Mobile Search Engine using HTML5, CSS3 & JS.",
-        "img": "https://res.cloudinary.com/dpqcnekdn/image/upload/v1687255723/SearchEngine_aa3pjw.png"
+        "name": "Fighting Game",
+        "description": "Fighting Game using HTML5, CSS3 & JS.",
+        "imgs": "./imgs/GameJS.PNG",
+        "git": "https://github.com/SyedSumaimaly/Fighter-Game-Javascript",
+        "view": "https://sumaim-fighter-game.netlify.app/"
     }
 ]
