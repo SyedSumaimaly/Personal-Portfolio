@@ -1,5 +1,5 @@
 import Home from "./Containers/Home/Home";
-import Resume from "./Containers/Resume/Resume";
+import Skills from "./Containers/Skills/Skills";
 import Portfolio from "./Containers/Portfolio/Portfolio";
 
 import {
@@ -13,7 +13,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/Resume" element={<Resume />} />
+        <Route path="/Skills" element={<Skills/>} />
         <Route path="/Portfolio" element={<Portfolio />} />
       </Routes>
     </BrowserRouter>

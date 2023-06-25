@@ -26,9 +26,9 @@ function Intro() {
                     <div className="responsibility">
                         <div>
                             <h1>
-                                Responsibilities:
+                                Proficiencies:
                             </h1>
-                            <ul>
+                            <ul className=''>
                                 <li>
                                     Working with clients to develop the overall look and design of a website.
                                 </li>

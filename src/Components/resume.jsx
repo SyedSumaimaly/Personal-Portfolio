@@ -38,7 +38,6 @@ useEffect(()=>{
                                     }}
                                     cover={
                                         <img
-                                            alt="example"
                                             src={v.imgs}
                                         />
                                     }
