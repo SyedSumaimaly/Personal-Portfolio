@@ -1,8 +1,29 @@
 [
     {
+        "name": "Chat App (React)",
+        "description": "Chat App using React.js & Socket.IO",
+        "imgs": "./imgs/chatapp.png",
+        "git": "https://github.com/SyedSumaimaly/Chat-App-Frontend",
+        "view": "https://github.com/SyedSumaimaly/Chat-App-Backend"
+    },
+    {
+        "name": "Webcam App (React)",
+        "description": "Webcam App using React.js & React Webcam & React Media Recorder. ",
+        "imgs": "./imgs/webcamapp.png",
+        "git": "https://github.com/SyedSumaimaly/Webcam-App-React",
+        "view": "https://webcam-app-sumaim.netlify.app/"
+    },
+    {
+        "name": "Word Counter App (React)",
+        "description": "Word Counter App using React.js. ",
+        "imgs": "./imgs/wordcounter.png",
+        "git": "https://github.com/SyedSumaimaly/Word-Counter-App",
+        "view": "https://word-counter-app-sumaim.netlify.app/"
+    },
+    {
         "name": "Quiz App (React)",
-        "description": "Quiz App using React.js. in this ",
-        "imgs" : "./imgs/QuizApp.png",
+        "description": "Quiz App using React.js.",
+        "imgs": "./imgs/QuizApp.png",
         "git": "https://github.com/SyedSumaimaly/Quiz-App-React",
         "view": "https://sumaim-quiz-app-react.netlify.app/"
     },
@@ -55,7 +76,6 @@
         "git": "https://github.com/SyedSumaimaly/Gumybear_NFT_LandingPg_Portfolio",
         "view": "https://nft-landingpg-sumaim.netlify.app/"
     },
-
     {
         "name": "OLX Page (Clone)",
         "description": "OLX Page using HTML5 & CSS3.",
@@ -63,7 +83,6 @@
         "git": "https://github.com/SyedSumaimaly/Emoji-Finder-React",
         "view": "https://sumaim-emoji-finder.netlify.app/"
     },
-
     {
         "name": "Weather App",
         "description": "Weather App using HTML5, CSS3 & JS.",
@@ -71,7 +90,6 @@
         "git": "https://github.com/SyedSumaimaly/Weather-App",
         "view": "https://sumaim-weather-app.netlify.app/"
     },
-
     {
         "name": "Fighting Game",
         "description": "Fighting Game using HTML5, CSS3 & JS.",

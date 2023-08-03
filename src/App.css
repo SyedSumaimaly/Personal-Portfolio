@@ -162,9 +162,10 @@ li {
 /* Portfolio */
 
 .main_portfolio_div_two {
-  background-image: url('Components/Assets/bg2.jpg');
+  /* background-image: url('Components/Assets/bg2.jpg'); */
+  background-color: #2a0651;
   width: 100%;
-  background-repeat: no- repeat;
+  background-repeat: no-repeat;
   height: fit-content;
 }
 
